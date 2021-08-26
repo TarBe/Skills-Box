@@ -1,0 +1,53 @@
+.skill-box {
+    float: right;
+    border: 5px solid #343434; 
+    width: 100%;
+    background-color: #aeae;
+    padding: 6rem;
+    font-family: 'Ubuntu' , sans-serif;
+}
+
+.skill-box p {
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+
+.sb-box {
+    height: 4rem;
+    width: 100%;
+    background-color: #343434;
+    color: black;
+    border: 5px solid #fff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.s-box {
+    height: 3.4rem;
+    margin-left: 0;
+    background-color: white;
+}
+
+.s-box span {
+    font-size: 2rem;
+    float: right;
+    margin-top: -4.5rem;
+    margin-left: -1rem;
+    background-color: #fff;
+    padding: .5rem;
+    border-radius: 5px;
+}
+
+.s-90 {
+    width: 90% !important;
+}
+
+.s-70 {
+    width: 70% !important;
+}
+.s-40 {
+    width: 40% !important;
+}
+.s-50 {
+    width: 50% !important;
+}
